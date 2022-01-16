@@ -6,3 +6,5 @@ Modify Existing Employee Details
 Add New Employee Details
 Remove an Employee Details
 Appraise an Employee
+
+Password to access the system is set as - "akshat"
